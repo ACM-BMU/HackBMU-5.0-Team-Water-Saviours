@@ -73,7 +73,7 @@ Hold on, there is more. Let's have a look at the **whatsapp messages** sent to t
 
 ## Hardware Configurations
 
-a. **_Arduino Setup (static one)_**
+**_Arduino Setup (static one) followed by the Robot Setup (mobile one)_**
 
 <p align="center">
   <img src="readme_img/asetup.png" height="250px"><img src="readme_img/rsetup.png" height="250px">
