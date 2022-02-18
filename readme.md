@@ -76,14 +76,14 @@ Hold on, there is more. Let's have a look at the **whatsapp messages** sent to t
 **_Arduino Setup (static one) followed by the Robot Setup (mobile one)_**
 
 <p align="center">
-  <img src="readme_img/asetup.png" height="250px"><img src="readme_img/rsetup.png" height="250px">
+  <img src="readme_img/asetup.png" height="230px"><img src="readme_img/rsetup.png" height="230px">
 </p>
 
 A total of **100 jumper wires and 30 electrical sensors** have been used to make the hardware part of this project. **Serial communication, collection of live data points, preparing a decision tree through Iterative Dichotomizer 3 algoritm, running Integromat webhooks, sending & retrieving sensors data, making the robot fetch them and work accordingly, calibration and sychronization of electrical sensors**, a lot is going on at the back end. It took a toal of **_2200 lines of code_** to make this project into a functionable project which is ready to serve the society & can easily manage its journey from being a **project to product**.
 
 ## Project Gallery
 <p align="center">
-  <img src="readme_img/gallery.jpg" height="350px"> 
+  <img src="readme_img/gallery.jpg" height="260px"> 
 </p>
 
 ## Important Links
