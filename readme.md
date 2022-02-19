@@ -102,3 +102,7 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
     <td>Coming Soon</td>
   </tr>
 </table>
+
+<p>
+Check out the faqs.md file also where we have tried to answer some general questions which may arise in the reader's mind
+</p>
