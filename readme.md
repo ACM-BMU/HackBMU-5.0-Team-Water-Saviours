@@ -98,11 +98,19 @@ A total of **100 jumper wires and 30 electrical sensors** have been used to make
     <td><a href="https://wheels4water.me">Click here</a></td>
   </tr>
   <tr>
-    <td>Working Video</td>
-    <td>Coming Soon</td>
+    <td>Final Working Video</td>
+    <td><a href="https://youtu.be/I0Db09lrz2M">Click here</a></td>
+  </tr>
+  <tr>
+    <td>Python Voice Control Video</td>
+    <td><a href="https://youtu.be/W_YwLUU4wdM">Click here</a></td>
   </tr>
 </table>
 
 <p>
-Check out the faqs.md file also where we have tried to answer some general questions which may arise in the reader's mind
+Check out the **faqs.md file** also where we have tried to answer some general questions which may arise in the reader's mind
+</p>
+
+<p>
+We have used **Twilio** & **GitHub** to the full extent so that we can make the project perform to the full extent.
 </p>
